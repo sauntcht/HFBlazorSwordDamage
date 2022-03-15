@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.0.31903.59
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "HFBlazorSwordDamage", "HFBlazorSwordDamage\HFBlazorSwordDamage.csproj", "{0E85E8F5-8F69-4818-9CDF-6360638E5D90}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{0E85E8F5-8F69-4818-9CDF-6360638E5D90}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0E85E8F5-8F69-4818-9CDF-6360638E5D90}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0E85E8F5-8F69-4818-9CDF-6360638E5D90}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0E85E8F5-8F69-4818-9CDF-6360638E5D90}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {7135A5FD-239F-4D15-912B-B3F002DDD10B}
+	EndGlobalSection
+EndGlobal
